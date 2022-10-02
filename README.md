@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## My name is Benyammi Bahmed
+
+## I'm full stack devolopper
+
+## 🔭 I’m currently looking for new opportunity
+
+
+## My status:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-bahmedBenyammi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!--
 **bahmedBenyammi/bahmedBenyammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
