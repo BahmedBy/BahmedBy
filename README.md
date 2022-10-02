@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-## My name is Benyammi Bahmed
+### My name is Benyammi Bahmed
 
-## I'm full stack devolopper
+### I'm full stack devolopper
 
-## 🔭 I’m currently looking for new opportunity
+###🔭 I’m currently looking for new opportunity
 
 
 ## My status:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-bahmedBenyammi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bahmedBenyammi&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
